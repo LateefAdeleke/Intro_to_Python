@@ -1,0 +1,6 @@
+import re, sys
+
+lexicon: (We are a leading 
+          foods, infrastructure, mining and manufacturing conglomerate Headquartered in Niger
+          ia with diversified investments spanning key business sectors of the African economy)
+type(lexicon))
